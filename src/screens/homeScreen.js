@@ -8,8 +8,7 @@ export default function HomeScreen({ navigation }) {
 
       <Text style={styles.description}>
         Aplicativo que consome a HP API e mostra os personagens do mundo de
-        Harry Potter. Veja a lista completa e toque em um personagem para
-        conhecer mais detalhes.
+        Harry Potter.
       </Text>
 
       <TouchableOpacity
